@@ -53,6 +53,68 @@ Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu pr
 
 > [!TIP]
 > Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
+>
+> 
+PRD – MVP App de Finanças Pessoais Conversacional
+
+Contexto
+Criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas naturais com o usuário.
+O objetivo é simplificar o controle financeiro, eliminando formulários complexos e planilhas, oferecendo uma experiência fluida e personalizada.
+
+Problema
+- Usuários desistem de controlar gastos porque os apps atuais exigem muita entrada manual.
+- Falta personalização e recomendações práticas.
+- A experiência não é intuitiva para iniciantes.
+
+Público-Alvo
+- Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação.
+- Principalmente iniciantes que nunca usaram apps de finanças ou que desistiram por achar difícil.
+
+Funcionalidades-Chave do MVP
+1. Registro de gastos via chat
+   - Usuário informa em linguagem natural: “Gastei 50 reais no mercado”.
+   - O app interpreta e registra automaticamente.
+
+2. Classificação automática de transações
+   - Categorias básicas: Alimentação, Transporte, Lazer, Contas Fixas.
+   - Sugestões automáticas com possibilidade de correção pelo usuário.
+
+3. Metas financeiras simples
+   - Definir objetivos: “Quero economizar 200 reais este mês”.
+   - Acompanhar progresso via chat e relatórios.
+   - Exibir evolução da meta em percentual (%) e valor (R$).
+     Exemplo: “Você já atingiu 40% da sua meta, economizando R$80 de R$200”.
+
+4. Agente Financeiro (IA)
+   - Dicas rápidas de economia personalizadas.
+   - Exemplo: “Você gastou mais em delivery este mês, que tal cozinhar em casa algumas vezes?”
+
+5. Relatórios básicos e visuais
+   - Gráficos simples (pizza ou barras) mostrando gastos por categoria.
+   - Resumo semanal/mensal em linguagem acessível.
+   - Destaque para o progresso das metas em percentual e valor.
+
+Principais Telas do MVP
+- Tela de Conversa (Chat): núcleo da experiência, onde tudo acontece.
+- Tela de Relatórios: visão geral dos gastos e metas, incluindo percentual e valor atingido.
+- Tela de Configurações: categorias, metas e preferências básicas.
+
+Validação Inicial
+- Testar com grupo pequeno de usuários iniciantes.
+- Avaliar:
+  - Facilidade de registrar gastos via chat.
+  - Clareza das dicas do Agente Financeiro.
+  - Utilidade dos relatórios simples e acompanhamento de metas em percentual e valor.
+- Coletar feedback para evoluir categorias e relatórios.
+
+Entregável da IA
+Um MVP funcional com:
+- Chat para registro e interação.
+- Classificação automática básica.
+- Metas simples com acompanhamento em percentual e valor.
+- Relatórios visuais iniciais.
+- Agente Financeiro com dicas educativas.
+- 
 
 ### 2. Explorando o Lovable na Prática
 
